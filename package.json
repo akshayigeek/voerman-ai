@@ -15,7 +15,6 @@
     "@azure/storage-blob": "^12.28.0",
     "@pinecone-database/pinecone": "^6.1.2",
     "@sendgrid/mail": "^8.1.5",
-    "@tensorflow/tfjs": "^4.22.0",
     "axios": "^1.11.0",
     "cors": "^2.8.5",
     "country-list": "^2.4.1",
