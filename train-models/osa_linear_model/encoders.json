@@ -1,0 +1,19 @@
+{
+  "origin_location": [
+    "New Orleans, LA, US"
+  ],
+  "destination_location": [
+    "Rotterdam, ZH, NL"
+  ],
+  "equipment_type": [
+    "20ft dry",
+    "40ft dry"
+  ],
+  "trade_lane": [
+    "North America to Europe",
+    "USA Eastcoast to Europe"
+  ],
+  "mode": [
+    "Seafreight"
+  ]
+}
